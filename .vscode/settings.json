@@ -1,3 +1,6 @@
 {
-    
+    "workbench.colorTheme": "Visual Studio Light",
+    "files.eol": "\n",
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 0
 }
